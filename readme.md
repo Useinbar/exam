@@ -1,2 +1,3 @@
 Modification première ligne...
 ajout deuxième fichier "fic2.txt"
+ajout de la troisième ligne
