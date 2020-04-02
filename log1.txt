@@ -1,0 +1,50 @@
+commit b8da2dfb5c5d55532f644e2f7ae73ab2ae2de75e
+Merge: c60ba3a eccb5db
+Author: Useinbar <simon.blouin@epsi.fr>
+Date:   Thu Apr 2 14:39:21 2020 +0200
+
+    Commit conflit résolu
+
+commit c60ba3a8eab040926fd49ba7815500ff4565d6dd
+Author: Useinbar <simon.blouin@epsi.fr>
+Date:   Thu Apr 2 14:37:35 2020 +0200
+
+    Commit Local
+
+commit eccb5db52a16ab37149befa514db08571b0295e5
+Author: Useinbar <45289873+Useinbar@users.noreply.github.com>
+Date:   Thu Apr 2 14:37:17 2020 +0200
+
+    Update fic2.txt
+    
+    commit github
+
+commit c52378305bc2c4f080af87c1c6d12317b6bfe556
+Author: Useinbar <simon.blouin@epsi.fr>
+Date:   Thu Apr 2 14:33:01 2020 +0200
+
+    Cinquième Commit : 3ième ligne
+
+commit 1966bcfb065f9336cb3d43e7fb042a74aab41333
+Author: Useinbar <simon.blouin@epsi.fr>
+Date:   Thu Apr 2 14:32:15 2020 +0200
+
+    Quatrième Commit : écriture message
+
+commit 5d1bcdcb93613865cb0a63ebe083fc0e75bea96d
+Author: Useinbar <simon.blouin@epsi.fr>
+Date:   Thu Apr 2 14:31:20 2020 +0200
+
+    Troisième Commit
+
+commit e86ebc5b2a9de373c71a2a3557c22d4cbdc6853b
+Author: Useinbar <simon.blouin@epsi.fr>
+Date:   Thu Apr 2 14:30:14 2020 +0200
+
+    Deuxième Commit
+
+commit ecc526bcc712615de6a30e161399010239144e16
+Author: Useinbar <simon.blouin@epsi.fr>
+Date:   Thu Apr 2 14:28:41 2020 +0200
+
+    Premier Commit
